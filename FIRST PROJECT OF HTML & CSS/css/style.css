@@ -1,0 +1,195 @@
+/* BASIC WEBPAGE OF HTML AND CSS */
+
+#topbar
+{
+	background-color:black;
+	height:30px;
+	width:100%;
+}
+
+#topbar marquee
+{
+	color:white;
+	padding:5px;
+	
+}
+
+body
+{
+	background-color:white;
+}
+
+#container
+{
+	background-color:white;
+	width:70%;
+	margin:0px auto;
+}
+
+#header
+{
+	height:70px;
+	background-color:white;
+}
+
+#header ul
+{
+	float:right;
+	margin-top:25px;
+}
+
+#header ul li
+{
+	display:inline;
+	margin-right:15px;
+}
+
+#header ul li a
+{
+	color:#848383;
+	text-decoration:none;
+	font-size:18px;
+}
+
+#banner img
+{
+	width:100%;
+	padding-top:15px;
+	padding-bottom:20px;
+}
+
+#box1 
+{
+	float:left;
+	background-color:#F96C00;
+	height:350px;
+	width:32%;
+	margin-right:2%;
+}
+
+#box2
+{
+	float:left;
+	background-color:#FFC803;
+	height:350px;
+	width:32%;
+	margin-right:2%;
+}
+
+#box3
+{
+	float:right;
+	background-color:#A4C610;
+	height:350px;
+	width:32%;
+}
+
+.heading 
+{
+	clear:both;
+	margin-left:20px;
+	color:#FFFFFF;
+}
+
+.content
+{
+	color:#FFFFFF;
+	margin-left:20px;
+	margin-right:10px;
+}
+
+#box2 ul li a
+{
+	color:white;
+	margin-right:15px;
+	text-decoration:none;
+}
+#box2 ul li
+{
+	list-style-type:square;
+}
+
+.more
+{
+	color:black;
+	background-color:white;
+	text-decoration:none;
+	padding:10px;
+	margin-left:20px;
+}
+
+#bottom1
+{
+	color:#1A1F25;
+	margin-top:10px;
+	width:65%;
+	float:left;
+	background-color:;
+}
+
+#bottom1 p
+{
+	color:#78797B;
+	font-size:12px;
+	margin-right:10px;
+}
+
+#bottom2
+{
+	margin-top:10px;
+	width:32%;
+	float:right;
+}
+
+#bottom2 a
+{
+	color:#1A1F25;
+}
+
+#bottom1 a
+{
+	color:#F86C00;
+}
+
+#bottom2 img
+{
+	width:100%
+}
+
+#footer
+{
+	margin-top:25px;
+	background-color:black;
+	height:80px;
+	width:100%;
+	clear:both;
+	
+}
+
+#footer ul
+{
+	float:left;
+	margin-top:25px;
+	margin-left:10%;
+}
+
+#footer ul li
+{
+	display:inline;
+	margin-left:20px;
+}
+
+#footer ul li a
+{
+	color:#848383;
+	text-decoration:none;
+	font-size:15px;
+}
+
+#footer p
+{
+	color:#848383;
+	float:right;
+	margin-right:15%;
+	padding-top:10px;
+}
